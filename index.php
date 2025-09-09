@@ -27,6 +27,7 @@
                     <li><a href="produk.html">POPULAR</a></li>
                     <li><a href="#">EXPLORE</a></li>
                     <li><a href="#">ABOUT BNB</a></li>
+                    <li>test</li>
                 </ul>
             </nav>
         </header>
